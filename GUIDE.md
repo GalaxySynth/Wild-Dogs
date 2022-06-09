@@ -9,7 +9,7 @@
 ---
 
 # Guide
-Our server contains a select number of mods, all of which are intended to enhance but not fundamentally alter the vanilla minecraft experience. The guide below serves as a reference for any new mechancis or major mods you should know about.
+Our server contains a number of mods, which are intended to enhance but not fundamentally alter the vanilla Minecraft experience. The guide below serves as a reference for any new mechanics, or major mods you should know about.
 
 
 ## Important Mods
