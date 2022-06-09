@@ -20,7 +20,7 @@ Start by hitting the `add instance` button
 
 ![Add](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/addinstance.PNG)
 
-Then click the import from zip tab and select the modpack from wherever you downloaded it.
+Then click the import from zip tab and select the modpack from the folder you downloaded it to.
 
 The server comes pre-loaded into the modpack in the multiplayer menu. Just click to join!
 
