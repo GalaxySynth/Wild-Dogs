@@ -2,8 +2,6 @@
  Wiki and Gameplay Guide for Private Minecraft Server
 
 
- # Optional Client Modpack
-
  ---
 
 <p align="center">
