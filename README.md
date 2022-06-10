@@ -18,4 +18,4 @@
 Wild Dogs is a lightweight, Vanilla-client friendly Fabric server built on Minecraft 1.19. It contains most quality of life improvements you'd expect, improved visual fidelity and performance as well as plenty of worldgen datapacks.
 
 ## Gameplay Guide
-DogeCraft contains some gameplay enhancing mechanics. Those are described in detail [here](https://github.com/The-Animonculory/Wild-Dogs/blob/main/GUIDE.md) in the gameplay guide.
+Our server contains some gameplay enhancing mechanics. Those are described in detail [here](https://github.com/galaxysynth/Wild-Dogs/blob/main/GUIDE.md) in the gameplay guide.
