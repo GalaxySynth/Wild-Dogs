@@ -12,8 +12,8 @@
 Our server contains a number of mods, which are intended to enhance but not fundamentally alter the vanilla Minecraft experience. The guide below serves as a reference for any new mechanics, or major mods you should know about.
 
 
-## Important Mods
-Below is a list of notable mods and ones you might want to read the wiki for should you wish to interact with the content included.
+## Server Mods
+Below is a list of notable mods that are on the server.
 
 ### Food and Farming
 * [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric) - Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. Using a collection of rustic tools and workstations, you can improve the foundation of your farm plots, prepare a myriad of hearty meals and snacks, and even gear up a bit better for adventure!
@@ -78,3 +78,6 @@ Below is a list of notable mods and ones you might want to read the wiki for sho
 * [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) -  A complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes. There are over 15 different rooms, various types of tunnels and hallways, staircases, traps, and even hidden areas!
 * [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) - YUNG's Bridges is the first Minecraft mod to ever add naturally generated bridges to the game. Explore the world and discover over 15 different types of bridges, each with biome-specific variants!
 * [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric) - A myriad of structures, features, and vanilla+ content. This mod is a collection of upgrades to vanilla Minecraft that are each individually too small for their own mods, but together create a nice finishing touch for your modpack. It's the cherry on top for any modpack.
+
+# Optional Client Mods
+- Below is a list of the client sided mods included in the optional modpack download. 
