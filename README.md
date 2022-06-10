@@ -19,3 +19,6 @@ Wild Dogs is a lightweight, Vanilla-client friendly Fabric server built on Minec
 
 ## Gameplay Guide
 Our server contains some gameplay enhancing mechanics. Those are described in detail [here](https://github.com/galaxysynth/Wild-Dogs/blob/main/GUIDE.md) in the gameplay guide.
+
+## Install Guide
+Visit the [install](https://github.com/galaxysynth/Wild-Dogs/blob/main/INSTALL.md) guide if you wish to use sodium, Iris, QOL mods, and a minimap included in the optional client download. 
