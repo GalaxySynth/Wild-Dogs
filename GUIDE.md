@@ -67,7 +67,6 @@ Below is a list of notable mods and changes that are on the server.
   - Mooshrooms can spawn instead of Cows, and can spawn as Brown or Red
   - Higher default chance of Zombies being Zombie Villagers
   - Hostile mobs won't spawn within 48 blocks of campfires
-  - Bees can be petted by right-clicking them, this calms them when angered
   - Skeletons can spawn on Skeleton Horses
   - Zombies can spawn on Zombie Horses
   - Spiders can produce webs randomly
