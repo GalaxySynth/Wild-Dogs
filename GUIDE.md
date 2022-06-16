@@ -100,7 +100,7 @@ Below is a list of notable mods and changes that are on the server.
 
 * [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) -  Repurposed Structures is a mod about taking existing vanilla features and structures and creating new variants or modifications to them!
 
-~~ * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves! ~~
+~~* [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves!~~
 
 * [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) - Ever thought the bland Vanilla biomes could use an update? Ecologics aims to improve various Vanilla biomes by adding fun new mobs, blocks, and more, all while staying completely true to the Vanilla style.
 
