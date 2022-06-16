@@ -13,71 +13,123 @@ Our server contains a number of mods, which are intended to enhance but not fund
 
 
 ## Server Mods
-Below is a list of notable mods that are on the server.
+Below is a list of notable mods and changes that are on the server.
+
+### QOL
+* [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed) -  This mod solves when you won't able to sleep even if you're safe, because of a random mob in the cave under your base, outside the wall, or on the roof.
+* [Better Spawner Control](https://www.curseforge.com/minecraft/mc-mods/better-spawner-control-fabric) -  Better Spawner Control is a drag-and-drop mod which disables mob spawners whenever they are surrounded by 5 torches (each side of the spawner block that is exposed to air).
+* [Chest Refill](https://www.curseforge.com/minecraft/mc-mods/chest-refilln) -  A serverside mod that refills loot containers.
+* [Edit Sign](https://www.curseforge.com/minecraft/mc-mods/edit-sign) - Allow you to edit signs without destroying them. Simply right click the sign to edit it. If you don't want to edit, sneak while doing your thing.
+* [Lapis Reserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) - When leaving lapis in a Enchanting table it will not only stay there it will also be available at any other enchanting table.
+* [TaterCart](https://www.curseforge.com/minecraft/mc-mods/tatercart) - Vanilla minecarts are somewhat lacking. They are one of worse transportation method in vanilla game and this mod tries to fix it! This mode changes minecart physics (with option to toggle it per minecart for people who need vanilla physics) and adds multiple new one with their own functionality!
+
+
+#### Various QOL Changes
+  - Destructive mob griefing is disabled, Lenient griefing (Farmers, sheeps, foxes, etc) is enabled, automation via mobs rejoice
+  - Walking through webs eventually breaks them
+  - Sleeping heals damage and remove potion effects
+  - By placing multiple sponge blocks next to each other, the absorption radius increases. 
+  - You can store your XP in Bottles O' Enchanting by sneak+right clicking with a bottle.
+  - Right clicking with an empty bottle, and torch in offhand underwater will restore some air.
+  - Beds are bouncier and reduce fall damage.
+  - XP orbs clump.
+  - Potions stack.
+  - Conduits prevent Drowned from spawning nearby.
+  - Nether portals can be created smaller, or with Crying Obsidian.
+  - Paintings can be cycled through by right clicking with painting in hand.
+  - Eggs that despawn on hay bales can hatch into a baby chicken.
+  - Stone item stacks thrown into moving water can erode into sand, and Terracotta erodes into clay.
+  - Right clicking a mob in a boat or minecart removes them from it.
+  - Right clicking dirt with wheat seeds turns it into grass.
+  - Anvils will never charge you more than 3 levels for repairing.
+  - You can grind enchantments off into books with the grindstone.
+  - Sneak+right clicking a player gives the currently held item(s).
+  - Hay bales negate fall damage.
+  - Walking in a slime chunk makes your feet squish.
+  - Spawners can be moved with silk touch.
+
 
 ### Food and Farming
-* [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric) - Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. Using a collection of rustic tools and workstations, you can improve the foundation of your farm plots, prepare a myriad of hearty meals and snacks, and even gear up a bit better for adventure!
-* [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads-fabric) - This mod adds a Market block to Minecraft, allowing you to buy seeds, saplings or other things such as bone meal. It also adds some farming utilties such as a Chicken Nest, a Feeding Trough, and Fertilizers to improve your crops.
-* [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Go Fish is a fishing enhancement mod for Fabric. It takes inspiration from Stardew Valley and Terraria to create a rewarding fishing experience with exciting new loot, creative aquatic creatures, and an incentive to enjoy fishing.
-* [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) - Croptopia adds many new crops and food options to explore.
+* [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric) - Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. Using a collection of rustic tools and workstations, you can improve the foundation of your farm plots, prepare a myriad of hearty meals and snacks, and even gear up a bit better for adventure! Heavy use of REI is recommended, as this mod adds its own custom REI recipe tabs!
+
+#### Various farming changes
+  - You can right click harvest holding a hoe. Better hoes have a bigger radius.
+  - Harvesting crops gives XP.
+  - Having an ice block under farmland prevents a crop from advancing a stage, for decor purposes.
+  - Soil under gourds will stay tilled.
+  - Bonemealing grass randomly produces any flower, not just biome specific.
 
 ### Mobs
-* [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) - Better Animals Plus seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to other mods of the same category.
-* [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) - Creeper Overhaul replaces the vanilla creeper with a variety of different biome-specific creeper types, some friendlier than others.
-* [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes) - Friends&Foes is a mod focused on adding all eliminated mobs from the minecraft mob votes and also the forgotten mobs like the Illusioner with a rich lore.
-* [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric) - Are you tired of your village dying off because its golem is too lazy? Are you tired of essentially defending it all by yourself? This mod adds Guards as a solution, as well as new villager-related AI changes.
-* [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails) - A Minecraft mod which adds some very cute snails.
-* [More Axolotl Variants](https://www.curseforge.com/minecraft/mc-mods/mavm) - This mod simply adds more axololts into vanilla Minecraft (they have their own nbt tag, starting from 5 to 14).
-* [The Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod) - Adds various features from the minecraft wild update into fabric.
-* [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric) - Ever felt bored of the Minecraft Villagers? Do you wish they sold more useful items? More Villagers aims to fix that by adding multiple new villager jobs, all with unique trades, workstations, and advancements!
+
+#### Various Mob Changes
+  - Chickens shed feathers
+  - Horse foals won't get worse stats than their parents
+  - Mooshrooms can spawn instead of Cows, and can spawn as Brown or Red
+  - Higher default chance of Zombies being Zombie Villagers
+  - Hostile mobs won't spawn within 48 blocks of campfires
+  - Bees can be petted by right-clicking them, this calms them when angered
+  - Skeletons can spawn on Skeleton Horses
+  - Zombies can spawn on Zombie Horses
+  - Spiders can produce webs randomly
+  - Zombie Spawners can produce Zombie Villagers
+  - Shulkers respawn after a few hours, and drop two shells
+
 
 ### Miscellaneous
 * [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) - Adds several quality of life items such as climbable ropes, a block rotator wrench, a few new food items and much more!
-* [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) - A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.
-* [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features) - Do lots of new things with banners.
-* [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones-fabric) - This mod adds waystone blocks that the player can return to once they've been activated, either through a Warp Scroll, a rechargeable Warp Stone, or by using an existing waystone to hop from one to the other.
-* [Winterly](https://www.curseforge.com/minecraft/mc-mods/winterly) - This simple mod will add some decorations that you can build with and cosmetics that you can wear.
 
-### Performance and GFX
-* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues.
-* [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - Iris aims to have full support for all past and present OptiFine shader packs, and number of packs supported by Iris is constantly and rapidly growing!
-
-### Interface and HUD
-* [Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - Unlike many other minimap mods, Xaero's minimap keeps the aesthetic of vanilla Minecraft, which helps it be a more seamless addition to the game. It is also the first rotating square minimap for Minecraft.
-* [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) - Xaero's World Map mod adds a self-writing fullscreen map to your Minecraft client. Works as a separate mod but is a lot better with Xaero's Minimap. The reason why it's available separately is to keep Xaero's Minimap as light-weight as possible.
+* [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration-fabric) - Anvil Restoration adds the ability to repair and damage placed anvils in the world. Right-clicking the anvil with an iron ingot will repair it one stage, saving you some iron to repair it before it breaks completely. This will consume the ingot. Right-clicking it with obsidian will damage it one, until in its most damaged stage. It won't break the block. This will allow for extra design purposes without having to use lots of experience to damage it manually. The obsidian will not be consumed.
 
 ### Weapons and Gear
-* [Basic Shields](https://www.curseforge.com/minecraft/mc-mods/basic-shields-fabric) - Basic Shields adds vanilla-style shields to Minecraft for each material. All shields fully support banners!
-* [AdaPaxels](https://www.curseforge.com/minecraft/mc-mods/adapaxels) - This mod adds Paxels which are tools combining blocks that can be mined by a pickaxe, an axe, a shovel and a hoe. They can also make paths strip logs with right click.
-* [Colorful Armor](https://www.curseforge.com/minecraft/mc-mods/colorful-armor) - This mod makes chain, iron, gold, and diamond armor able to be dyed.
-* [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-fabric) - With this Fabric mod, you gain 4 extra slots for armor. The armor put in there will display on your character, but won't provide any defense values or other functionality.
-* [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon) - Gate of Babylon is a mod for Fabric that adds in a bunch of new weapon/tool/armor options. From Boomerangs to Yo-yos, and Spears to Broadswords: we have you covered for all your adventuring needs.
-* [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks-fabric) - Iron Jetpacks is a fully customizable Energy powered jetpacks mod. All jetpacks this mod adds by default are completely configurable via JSON files.
-* [MC Dungeons Armors](https://www.curseforge.com/minecraft/mc-mods/mcda) - Have you ever wanted to have the armors from Minecraft Dungeons in your Minecraft world? Well, now that's possible! MC Dungeons Armors [MCDA] aims to (eventually) bring all of these armors, and more, from Minecraft Dungeons to Minecraft.
-* [MC Dungeons Weapons](https://www.curseforge.com/minecraft/mc-mods/mcdw) - Have you ever wanted to have the weapons from Minecraft Dungeons in your Minecraft world? Well, now that's possible! MC Dungeons Weapons (MCDW) aims to (eventually) bring all of these weapons, and more, from Minecraft Dungeons to Minecraft.
-* [Mythical Mounts](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts) - Adds 12 new tameable animals which can be found in various biomes across the world. Includes flying, aquatic, and terrestrial mounts.
+* [Better than Mending](https://www.curseforge.com/minecraft/mc-mods/better-than-mending) - This mod adds exactly one feature: the ability to sneak-right-click a Mending item to repair it with experience you already have.
+
+* [Torch Hit](https://www.curseforge.com/minecraft/mc-mods/torch-hit) - Attack with torches to deal fire damage!
 
 ### Utilities
-* [Campanion](https://www.curseforge.com/minecraft/mc-mods/campanion) -  Campainion is a camping companion that adds items and utilities to improve your life away from home.
-* [Cammies Wearable Backpacks](https://www.curseforge.com/minecraft/mc-mods/cammies-wearable-backpacks) - Just a small mod that adds 16 backpacks to the game that can be worn in the chest slot.
-* [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier) - Carrier allows you to easily transport chests, entities and spawners but you get slowness and increased hunger.
-* [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric) - Comforts is a mod that adds sleeping bags and hammocks to Minecraft.
-* [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders) - Allows 2 players to ride one horse!
-* [Early-Game Buckets](https://www.curseforge.com/minecraft/mc-mods/early-game-buckets) - A small fabric mod which adds some new early-game buckets!
-* [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) - Explorer's Compass is an item that allows you to locate structures anywhere in the world. It is the sister mod of Nature's Compass, an item that can be used to locate biomes.
-* [Lapis Reserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) - When leaving lapis in a Enchanting table it will not only stay there it will also be available at any other enchanting table.
-* [Mob Catcher](https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric) - A simple mod that allows the player to capture and release mobs for easy transport.
-* [Trade](https://www.curseforge.com/minecraft/mc-mods/trade) - Look at player, press "Trade" button ("v" by default), and request will be sent. Second player should do the same, to accept requset.
-* [Trading Post](https://www.curseforge.com/minecraft/mc-mods/trading-post-fabric) - Trading Post adds one simple block, which when used allows you to trade with all villagers in a configurable area at once. The table looks really fancy and includes a neat animation!
-* [Trap Expansion](https://www.curseforge.com/minecraft/mc-mods/trap-expansion-fabric) - Trap expansion is a mod that adds various utilities to move, trap and kill your prey.
+
+
+### Building
+ - Macaw's Everything
+ - Vertical Slabs
+ - Exline's Furniture
+
 
 
 ### Worldgen
-* [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves!
-* [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric) - This mod completely revamps vanilla abandoned mineshafts, changing them from boring straight lines into dynamic, varied webs of tunnels. Find loot tucked away in the corners of abandoned workstations, or out in the open in a chest on a minecart.
-* [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) -  A complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes. There are over 15 different rooms, various types of tunnels and hallways, staircases, traps, and even hidden areas!
-* [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) - YUNG's Bridges is the first Minecraft mod to ever add naturally generated bridges to the game. Explore the world and discover over 15 different types of bridges, each with biome-specific variants!
-* [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric) - A myriad of structures, features, and vanilla+ content. This mod is a collection of upgrades to vanilla Minecraft that are each individually too small for their own mods, but together create a nice finishing touch for your modpack. It's the cherry on top for any modpack.
+* [Additional Structures](https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric) - This mod adds ~155 new small and medium sized structures into the game to expand your world.
 
-# Optional Client Mods
-- Below is a list of the client sided mods included in the optional modpack download. 
+* [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) -  Repurposed Structures is a mod about taking existing vanilla features and structures and creating new variants or modifications to them!
+
+~~ * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves! ~~
+
+* [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) - Ever thought the bland Vanilla biomes could use an update? Ecologics aims to improve various Vanilla biomes by adding fun new mobs, blocks, and more, all while staying completely true to the Vanilla style.
+
+* [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) - YUNG's Bridges is the first Minecraft mod to ever add naturally generated bridges to the game. Explore the world and discover over 15 different types of bridges, each with biome-specific variants!
+
+#### Various Worldgen Changes
+  - There is a small chance of finding rare gems and minerals while mining any stone.
+  - Bedrock layer is flat.
+  - Datapacks that enhance vanilla biomes.
+
+# Client Mods
+- Below is a list of the client sided mods included in the modpack download. 
+
+### World Interaction
+
+[Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement) - In this mod, if you hold your 'use key' (usually RMB) and look at a new block it will automatically place it no matter how fast you move. No more need to time when you click or look in order to accurately place blocks quickly! You can set a keybind in the controls menu for switching to and from standard vanilla placing behavior.
+
+### Performance and GFX
+
+  - Recommended resource packs are included, but not enabled by default. (Stay True, Vanilla Tweaks)
+
+* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues.
+
+* [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - Iris aims to have full support for all past and present OptiFine shader packs, and number of packs supported by Iris is constantly and rapidly growing! 
+  - Shaders are included, but disabled by default. Press ctrl+o to change settings and activate shaders.
+
+* [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) - A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.
+
+### Interface and HUD
+* [Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - Unlike many other minimap mods, Xaero's minimap keeps the aesthetic of vanilla Minecraft, which helps it be a more seamless addition to the game. It is also the first rotating square minimap for Minecraft.
+
+* [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) - Xaero's World Map mod adds a self-writing fullscreen map to your Minecraft client. Works as a separate mod but is a lot better with Xaero's Minimap. The reason why it's available separately is to keep Xaero's Minimap as light-weight as possible.
