@@ -104,7 +104,6 @@ Below is a list of notable mods and changes that are on the server.
 
 * [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) - Ever thought the bland Vanilla biomes could use an update? Ecologics aims to improve various Vanilla biomes by adding fun new mobs, blocks, and more, all while staying completely true to the Vanilla style.
 
-* [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) - YUNG's Bridges is the first Minecraft mod to ever add naturally generated bridges to the game. Explore the world and discover over 15 different types of bridges, each with biome-specific variants!
 
 #### Various Worldgen Changes
   - There is a small chance of finding rare gems and minerals while mining any stone.
