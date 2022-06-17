@@ -116,6 +116,11 @@ Below is a list of notable mods and changes that are on the server.
 
 [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement) - In this mod, if you hold your 'use key' (usually RMB) and look at a new block it will automatically place it no matter how fast you move. No more need to time when you click or look in order to accurately place blocks quickly! You can set a keybind in the controls menu for switching to and from standard vanilla placing behavior.
 
+### UI
+
+#### Various UI Tweaks
+  - Hold Z key and use mouse scroll wheel to swap the currently active hotbar.
+
 ### Performance and GFX
 
   - Recommended resource packs are included, but not enabled by default. (Stay True, Vanilla Tweaks)
